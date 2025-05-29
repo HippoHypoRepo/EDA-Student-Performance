@@ -8,5 +8,4 @@ The goal is to uncover patterns and insights related to academic performance bas
 
 - `exams.csv` – The dataset  
 - `EDA_notebook.ipynb` – Jupyter Notebook with code and visualizations  
-- `report.pdf` – Formal summary of findings and conclusions  
 - `README.md ` – Project overview
